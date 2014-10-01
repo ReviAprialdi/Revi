@@ -2,5 +2,9 @@ Lapar
 Testing 123
 ini line 3
 ini line 4
+<<<<<<< HEAD
 line 5
 line 6
+=======
+Testing
+>>>>>>> c4ddb558a51352bfbca340841e1c448abad61207
